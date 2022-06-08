@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irshadali969
 - 👀 I’m interested in ... learning new things
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python,machine learing
 - 💞️ I’m looking to collaborate on ... new technology 
 - 📫 How to reach me ... mail me
 
